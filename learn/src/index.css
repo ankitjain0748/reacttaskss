@@ -1,0 +1,30 @@
+#Login{
+  display: flex;
+  align-items: center;
+  height:600px ;
+}
+
+#Header{
+  background-color: lightblue;
+  padding:10px 0px;
+}
+#Header button{
+  float: right;
+}
+#product h2{  text-align: center;
+  color:red;
+} 
+ #productshow .row{
+  justify-content: center;
+}
+#productshow h2{
+  text-align: center;
+  color:red;
+}
+#productshow button{
+  color:aqua
+}
+#footer{
+  background-color: lightblue;
+  text-align: center;
+}
